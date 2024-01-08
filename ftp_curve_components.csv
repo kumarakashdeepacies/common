@@ -1,0 +1,54 @@
+product_variant,tenor_value,tenor_unit,curve_components,market_benchmark,start_tenor,start_tenor_unit,end_tenor,end_tenor_unit,compounding,day_count,configuration_date
+Certificate of deposits,3.0,M,CD003M,CD003M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Certificate of deposits,6.0,M,CD006M,CD006M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Certificate of deposits,9.0,M,CD009M,CD009M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,1.0,Y,INPC012MAVG Index,INPC012MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,1.25,Y,INPC015MAVG Index,INPC015MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,1.50,Y,INPC018MAVG Index,INPC018MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,1.75,Y,INPC021MAVG Index,INPC021MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,2.0,Y,INPC024MAVG Index,INPC024MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,2.25,Y,INPC027MAVG Index,INPC027MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,2.50,Y,INPC030MAVG Index,INPC030MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,2.75,Y,INPC033MAVG Index,INPC033MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,3.0,Y,INPC036MAVG Index,INPC036MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,3.25,Y,INPC039MAVG Index,INPC039MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,3.50,Y,INPC042MAVG Index,INPC042MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,3.75,Y,INPC045MAVG Index,INPC045MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,4.0,Y,INPC048MAVG Index,INPC048MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,4.25,Y,INPC051MAVG Index,INPC051MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,4.50,Y,INPC054MAVG Index,INPC054MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,4.75,Y,INPC057MAVG Index,INPC057MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed Coupon Central Government Bonds,5.0,Y,INPC060MAVG Index,INPC060MAVG Index,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Indicative Rate,24.0,M,IC0024M,IC0024M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Indicative Rate,36.0,M,IC0036M,IC0036M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Indicative Rate,48.0,M,IC0048M,IC0048M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Indicative Rate,60.0,M,IC0060M,IC0060M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+COF Input,12.0,M,COF0012M,COF0012M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Liquidity premium,1.0,M,LP001M,LP001M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Liquidity premium,2.0,M,LP002M,LP002M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Liquidity premium,3.0,M,LP003M,LP003M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Liquidity premium,6.0,M,LP006M,LP006M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Liquidity premium,9.0,M,LP009M,LP009M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Liquidity premium,1.0,Y,LP001Y,LP001Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Liquidity premium,2.0,Y,LP002Y,LP002Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Liquidity premium,3.0,Y,LP003Y,LP003Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Liquidity premium,4.0,Y,LP004Y,LP004Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Liquidity premium,5.0,Y,LP005Y,LP005Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Coupon rate bonds,3.0,Y,CD2001,CD2001,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Demo liquidity premium, -,Y,ABC001Y,ABC001Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Demo liquidity premium, -,Y,ABC002Y,ABC002Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Demo liquidity premium, -,Y,ABC003Y,ABC003Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Demo liquidity premium, -,Y,ABC004Y,ABC004Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Credit Curve,6.0,M,FIMMDA_PSU_FI_BANKS_A_plus_6M,FIMMDA_PSU_FI_BANKS_A_plus_6M,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Credit Curve,1.0,Y,FIMMDA_PSU_FI_BANKS_A_plus_1Y,FIMMDA_PSU_FI_BANKS_A_plus_1Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Credit Curve,2.0,Y,FIMMDA_PSU_FI_BANKS_A_plus_2Y,FIMMDA_PSU_FI_BANKS_A_plus_2Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Credit Curve,3.0,Y,FIMMDA_PSU_FI_BANKS_A_plus_3Y,FIMMDA_PSU_FI_BANKS_A_plus_3Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Credit Curve,4.0,Y,FIMMDA_PSU_FI_BANKS_A_plus_4Y,FIMMDA_PSU_FI_BANKS_A_plus_4Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Credit Curve,5.0,Y,FIMMDA_PSU_FI_BANKS_A_plus_5Y,FIMMDA_PSU_FI_BANKS_A_plus_5Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Credit Curve,6.0,Y,FIMMDA_PSU_FI_BANKS_A_plus_6Y,FIMMDA_PSU_FI_BANKS_A_plus_6Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Credit Curve,7.0,Y,FIMMDA_PSU_FI_BANKS_A_plus_7Y,FIMMDA_PSU_FI_BANKS_A_plus_7Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Credit Curve,8.0,Y,FIMMDA_PSU_FI_BANKS_A_plus_8Y,FIMMDA_PSU_FI_BANKS_A_plus_8Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Credit Curve,10.0,Y,FIMMDA_PSU_FI_BANKS_A_plus_10Y,FIMMDA_PSU_FI_BANKS_A_plus_10Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Credit Curve,15.0,Y,FIMMDA_PSU_FI_BANKS_A_plus_15Y,FIMMDA_PSU_FI_BANKS_A_plus_15Y,-,-,-,-,Annual,-,2022-03-31 00:00:00
+Fixed deposit,3.0,M,MP123,MP123,-,-,-,-,Annual,-,2022-03-31 00:00:00
+COF Input,12.0,M,COF_Overall_Pool_12M,COF_Overall_Pool_12M,-,-,-,-,Annual,-,2022-03-31 00:00:00

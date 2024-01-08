@@ -1,0 +1,7 @@
+entity,entity_level_pool,pool_name,product_group,base_ftp_curve,constant_parameter_value,pool_id
+Ujjivan SFB,Bank wide pool,Maturing deposits,Term deposits,TD Base Curve,N.A.,MD001
+Ujjivan SFB,Bank wide pool,Non Maturing deposits,Current Account Deposits,Constant Parameter,CA Base rate,NMD001
+Ujjivan SFB,Bank wide pool,Non Maturing deposits,Savings Accounts Deposits,Constant Parameter,SA Base rate,NMD001
+Ujjivan SFB,Bank wide pool,NHB Loan,NHB Loan,,,NHB001
+Ujjivan SFB,Bank wide pool,Loans other than affordable housing,All loan product groups apart from Affordable Housing Loans,AssetCurve_Bank_wide_pool,N.A.,ASS001
+Ujjivan SFB,Bank wide pool,Affordable Housing Loan,Affordable Housing Loan,AssetCurve_Affordable_housing_pool,N.A.,AFFHOUS001

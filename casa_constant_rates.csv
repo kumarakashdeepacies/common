@@ -1,0 +1,7 @@
+core_portion,volatile_portion,custom_rate,constant_rate_parameter,curve_name,valuation_date
+0.9,0.1,0.0709878,SA Base rate,TD Base Curve,12/31/2022
+0.85,0.15,0.070744,CA Base rate,TD Base Curve,12/31/2022
+0.9,0.1,0.000533673,SA Liquidity premium,Liquidity Premium Curve,12/31/2022
+0.85,0.15,0.000504024,CA Liquidity premium,Liquidity Premium Curve,12/31/2022
+0.9,0.1,0.0189107,SA Credit spread,FIMMDA_PSU_FI_BANKS_A+,12/31/2022
+0.85,0.15,0.0178601,CA Credit spread,FIMMDA_PSU_FI_BANKS_A+,12/31/2022
