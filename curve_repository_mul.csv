@@ -1,0 +1,64 @@
+mulselect_id,curve_id,curve_name,curve_components,quote_type,curve_type,funding_spread,interpolation_algorithm,extrapolation_algorithm,lowerbound_extrapolation,upperbound_extrapolation,currency,day_count,asset_liability_type,configuration_date
+24,TDBC,TD Base Curve,CD003M,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,CD006M,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,CD009M,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC012MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC015MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC018MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC021MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC024MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC027MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC030MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC033MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC036MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC039MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC042MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC045MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC048MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC051MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC054MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC057MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+24,TDBC,TD Base Curve,INPC060MAVG Index,par,Liability,-,Linear,Flat,Flat,Flat,-,-,Liability,2022-03-31 00:00:00
+25,ACBWP,AssetCurve_Bank_wide_pool,CD003M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+25,ACBWP,AssetCurve_Bank_wide_pool,CD006M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+25,ACBWP,AssetCurve_Bank_wide_pool,CD009M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+25,ACBWP,AssetCurve_Bank_wide_pool,IC0024M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+25,ACBWP,AssetCurve_Bank_wide_pool,IC0036M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+25,ACBWP,AssetCurve_Bank_wide_pool,IC0048M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+25,ACBWP,AssetCurve_Bank_wide_pool,IC0060M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+25,ACBWP,AssetCurve_Bank_wide_pool,COF_Overall_Pool_12M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+26,ACAHP,AssetCurve_Affordable_housing_pool,CD003M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+26,ACAHP,AssetCurve_Affordable_housing_pool,CD006M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+26,ACAHP,AssetCurve_Affordable_housing_pool,CD009M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+26,ACAHP,AssetCurve_Affordable_housing_pool,IC0024M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+26,ACAHP,AssetCurve_Affordable_housing_pool,IC0036M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+26,ACAHP,AssetCurve_Affordable_housing_pool,IC0048M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+26,ACAHP,AssetCurve_Affordable_housing_pool,IC0060M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+26,ACAHP,AssetCurve_Affordable_housing_pool,COF0012M,par,Asset,-,Linear,Flat,Flat,Flat,-,-,Asset,2022-03-31 00:00:00
+27,LPC,Liquidity Premium Curve,LP001M,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+27,LPC,Liquidity Premium Curve,LP002M,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+27,LPC,Liquidity Premium Curve,LP003M,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+27,LPC,Liquidity Premium Curve,LP006M,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+27,LPC,Liquidity Premium Curve,LP009M,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+27,LPC,Liquidity Premium Curve,LP001Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+27,LPC,Liquidity Premium Curve,LP002Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+27,LPC,Liquidity Premium Curve,LP003Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+27,LPC,Liquidity Premium Curve,LP004Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+27,LPC,Liquidity Premium Curve,LP005Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+28, QAGC,Quarterly average GSEC curve,INPC012MAVG Index,par,Spread,-,Linear,Flat,-,-,-,-,Liability,2022-03-31 00:00:00
+28, QAGC,Quarterly average GSEC curve,INPC024MAVG Index,par,Spread,-,Linear,Flat,-,-,-,-,Liability,2022-03-31 00:00:00
+28, QAGC,Quarterly average GSEC curve,INPC036MAVG Index,par,Spread,-,Linear,Flat,-,-,-,-,Liability,2022-03-31 00:00:00
+28, QAGC,Quarterly average GSEC curve,INPC048MAVG Index,par,Spread,-,Linear,Flat,-,-,-,-,Liability,2022-03-31 00:00:00
+28, QAGC,Quarterly average GSEC curve,INPC060MAVG Index,par,Spread,-,Linear,Flat,-,-,-,-,Liability,2022-03-31 00:00:00
+29,CSCFIMMDA,FIMMDA_PSU_FI_BANKS_A+,FIMMDA_PSU_FI_BANKS_A_plus_6M,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+29,CSCFIMMDA,FIMMDA_PSU_FI_BANKS_A+,FIMMDA_PSU_FI_BANKS_A_plus_1Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+29,CSCFIMMDA,FIMMDA_PSU_FI_BANKS_A+,FIMMDA_PSU_FI_BANKS_A_plus_2Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+29,CSCFIMMDA,FIMMDA_PSU_FI_BANKS_A+,FIMMDA_PSU_FI_BANKS_A_plus_3Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+29,CSCFIMMDA,FIMMDA_PSU_FI_BANKS_A+,FIMMDA_PSU_FI_BANKS_A_plus_4Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+29,CSCFIMMDA,FIMMDA_PSU_FI_BANKS_A+,FIMMDA_PSU_FI_BANKS_A_plus_5Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+29,CSCFIMMDA,FIMMDA_PSU_FI_BANKS_A+,FIMMDA_PSU_FI_BANKS_A_plus_6Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+29,CSCFIMMDA,FIMMDA_PSU_FI_BANKS_A+,FIMMDA_PSU_FI_BANKS_A_plus_7Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+29,CSCFIMMDA,FIMMDA_PSU_FI_BANKS_A+,FIMMDA_PSU_FI_BANKS_A_plus_8Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+29,CSCFIMMDA,FIMMDA_PSU_FI_BANKS_A+,FIMMDA_PSU_FI_BANKS_A_plus_10Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+29,CSCFIMMDA,FIMMDA_PSU_FI_BANKS_A+,FIMMDA_PSU_FI_BANKS_A_plus_15Y,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00
+29,CSCFIMMDA,FIMMDA_PSU_FI_BANKS_A+,MP123,par,Spread,-,Linear,Flat,-,-,-,-,-,2022-03-31 00:00:00

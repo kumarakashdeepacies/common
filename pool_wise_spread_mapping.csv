@@ -1,0 +1,13 @@
+entity,entity_level_pool,pool_name,pool_id,product_group,spread_type,spread_source,spread_curve,spread_name,constant_parameter_value,configuration_date
+Ujjivan SFB,Bank wide pool,Maturing deposits,MD001,Term deposits,Credit spread,Curve Based,FIMMDA_PSU_FI_BANKS_A+,-,N.A.,31-03-2022 00:00
+Ujjivan SFB,Bank wide pool,Non Maturing deposits,NMD001,Current Account Deposits,Credit spread,Constant Parameter,N.A.,-,CA Credit spread,31-03-2022 00:00
+Ujjivan SFB,Bank wide pool,Non Maturing deposits,NMD001,Savings Account Deposits,Credit spread,Constant Parameter,N.A.,-,SA Credit spread,31-03-2022 00:00
+Ujjivan SFB,Bank wide pool,NHB Loan,NHB001,NHB Loan,Credit spread,-,N.A.,-,N.A.,31-03-2022 00:00
+Ujjivan SFB,Bank wide pool,Loans other than affordable housing,ASS001,All loan product groups apart from Affordable Housing Loans,Credit spread,-,N.A.,-,N.A.,31-03-2022 00:00
+Ujjivan SFB,Bank wide pool,Affordable Housing Loan,AFFHOUS001,Affordable Housing Loan,Credit spread,-,N.A.,-,N.A.,31-03-2022 00:00
+Ujjivan SFB,Bank wide pool,Maturing deposits,MD001,Term deposits,Liquidity premium,Curve Based,Liquidity Premium Curve,-,N.A.,31-03-2022 00:00
+Ujjivan SFB,Bank wide pool,Non Maturing deposits,NMD001,Current Account Deposits,Liquidity premium,Constant Parameter,N.A.,-,CA Liquidity premium,31-03-2022 00:00
+Ujjivan SFB,Bank wide pool,Non Maturing deposits,NMD001,Savings Account Deposits,Liquidity premium,Constant Parameter,N.A.,-,SA Liquidity premium,31-03-2022 00:00
+Ujjivan SFB,Bank wide pool,NHB Loan,NHB001,NHB Loan,Liquidity premium,-,N.A.,-,N.A.,31-03-2022 00:00
+Ujjivan SFB,Bank wide pool,Loans other than affordable housing,ASS001,All loan product groups apart from Affordable Housing Loans,Liquidity premium,-,N.A.,-,N.A.,31-03-2022 00:00
+Ujjivan SFB,Bank wide pool,Affordable Housing Loan,AFFHOUS001,Affordable Housing Loan,Liquidity premium,-,N.A.,-,N.A.,31-03-2022 00:00
