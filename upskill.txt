@@ -8,7 +8,6 @@ quant dev
   Quantpy
   
 
-
 quant analyst
   dimitri bianco
   quantopian
@@ -18,7 +17,6 @@ quant analyst
   Quantpy
   Quantitative Finance 
   Institute of acturial & quantitative studies
-
 
 
 CPP used companies
