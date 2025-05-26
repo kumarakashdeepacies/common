@@ -24,3 +24,8 @@ quant analyst
 CPP used companies
 networking 
 Quant 
+
+software engineering
+kafka project 
+redis project 
+overall understanding
