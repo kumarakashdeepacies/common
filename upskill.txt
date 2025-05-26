@@ -28,4 +28,6 @@ Quant
 software engineering
 kafka project 
 redis project 
-overall understanding
+web server 
+https server
+overall understanding -- 
